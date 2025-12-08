@@ -1,3 +1,1 @@
-CreateSchemaGroupJ.sql
-IngestDataGroupJ.sql
-Objective3_Final_Queries.sql
+
